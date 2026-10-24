@@ -1,49 +1,64 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-cover.svg" alt="Agumuzi — Useful software. Clear systems. macOS apps, network tools, and automation." width="100%">
+</p>
 
-# Agumuzi
+<p align="center">
+  <a href="https://github.com/Agumuzi/FinTrack">FinTrack</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Agumuzi/Currency-Tracker">Currency Tracker</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Agumuzi/crhopper">CR-Hopper</a>
+</p>
 
-**Local-first macOS apps · practical network tools · thoughtful automation**
+I build independent software for everyday workflows — mostly native Mac apps, networking utilities, and small automation systems. I care about tools that are understandable, maintainable, and useful beyond the demo.
 
-Building software around everyday workflows, with an emphasis on clarity, maintainability, and control over data.
+## Selected work
 
-[FinTrack](https://github.com/Agumuzi/FinTrack) · [Currency Tracker](https://github.com/Agumuzi/Currency-Tracker) · [CR-Hopper](https://github.com/Agumuzi/crhopper)
+### 01 / [FinTrack](https://github.com/Agumuzi/FinTrack)
 
-</div>
+**Personal finance, made for Mac.**
+
+A native macOS workspace for transactions, accounts, deposits, budgets, financial goals, and multiple currencies. Your financial records stay on your Mac.
+
+[**Explore the project →**](https://github.com/Agumuzi/FinTrack) &nbsp; · &nbsp; [Product website](https://agumuzi.github.io/FinTrack/) &nbsp; · &nbsp; [Download](https://github.com/Agumuzi/FinTrack/releases/latest)
 
 ---
 
-## Projects
+### 02 / [Currency Tracker](https://github.com/Agumuzi/Currency-Tracker)
 
-<table>
-<tr>
-<td width="78" align="center"><a href="https://github.com/Agumuzi/FinTrack"><img src="https://raw.githubusercontent.com/Agumuzi/FinTrack/main/website/assets/app-icon.png" width="62" alt="FinTrack app icon"></a></td>
-<td><strong><a href="https://github.com/Agumuzi/FinTrack">FinTrack</a></strong><br>Native macOS personal finance workspace for transactions, accounts, deposits, budgets, goals, and multiple currencies.<br><a href="https://agumuzi.github.io/FinTrack/">Website</a> · <a href="https://github.com/Agumuzi/FinTrack/releases">Releases</a> · <a href="https://github.com/Agumuzi/FinTrack">Source</a></td>
-</tr>
-<tr>
-<td width="78" align="center"><a href="https://github.com/Agumuzi/Currency-Tracker"><img src="https://agumuzi.github.io/Currency-Tracker/assets/screenshots/menu-panel.png" width="70" alt="Currency Tracker menu bar preview"></a></td>
-<td><strong><a href="https://github.com/Agumuzi/Currency-Tracker">Currency Tracker</a></strong><br>A local-first macOS menu bar app for exchange rates, trend charts, alerts, and quick currency conversion. Available in 11 interface languages.<br><a href="https://agumuzi.github.io/Currency-Tracker/">Website</a> · <a href="https://github.com/Agumuzi/Currency-Tracker/releases">Releases</a> · <a href="https://github.com/Agumuzi/Currency-Tracker">Source</a></td>
-</tr>
-<tr>
-<td width="78" align="center"><a href="https://github.com/Agumuzi/crhopper"><img src="https://raw.githubusercontent.com/Agumuzi/crhopper/main/docs/assets/rocket.svg" width="62" alt="CR-Hopper pixel rocket"></a></td>
-<td><strong><a href="https://github.com/Agumuzi/crhopper">CR-Hopper</a></strong><br>Curated subscriptions assembled from third-party public proxy sources for Hiddify, Mihomo, and Clash-compatible clients.<br><a href="https://agumuzi.github.io/crhopper/">Website</a> · <a href="https://github.com/Agumuzi/crhopper#quick-start">Quick start</a> · <a href="https://github.com/Agumuzi/crhopper">Source</a></td>
-</tr>
-</table>
+**Exchange rates, without leaving the menu bar.**
 
-## How I build
+Live exchange-rate cards, history charts, alerts, and quick conversion in a compact macOS app. Supports 11 interface languages.
 
-- **Local-first when practical.** Prefer user-controlled data and workflows that do not require a project-owned backend.
-- **Modular by design.** Keep components replaceable and failures easy to isolate.
-- **Built for real use.** Document installation, limitations, and updates instead of treating a demo as a finished product.
+[**Explore the project →**](https://github.com/Agumuzi/Currency-Tracker) &nbsp; · &nbsp; [Product website](https://agumuzi.github.io/Currency-Tracker/) &nbsp; · &nbsp; [Download](https://github.com/Agumuzi/Currency-Tracker/releases/latest)
 
-These are independent projects with different purposes and maturity levels. See each repository for requirements, releases, known limitations, and licenses. Public third-party proxy nodes in CR-Hopper are not guaranteed to be secure or available.
+---
+
+### 03 / [CR-Hopper](https://github.com/Agumuzi/crhopper)
+
+**Public proxy subscriptions, prepared for your client.**
+
+A project that filters and republishes third-party public proxy sources in subscription formats for Hiddify, Mihomo, and Clash-compatible clients.
+
+[**Explore the project →**](https://github.com/Agumuzi/crhopper) &nbsp; · &nbsp; [Website & quick start](https://agumuzi.github.io/crhopper/) &nbsp; · &nbsp; [Subscription formats](https://github.com/Agumuzi/crhopper#quick-start)
+
+---
+
+## How I approach software
+
+**Local-first.** Keep data and essential workflows under the user's control whenever practical.
+
+**Modular.** Design components to be replaceable, testable, and easier to troubleshoot.
+
+**Useful over flashy.** Work from real usage, document limitations, and keep iterating.
 
 <details>
-<summary><strong>简体中文</strong></summary>
+<summary><strong>简体中文 / 关于我和项目</strong></summary>
 
-我主要开发适合实际使用场景的 macOS 应用、网络工具与自动化系统，重视**本地优先、模块化、易维护和清晰的项目文档**。
+我主要开发面向真实使用场景的 **macOS 应用、网络工具和自动化系统**。重视本地优先、模块化、易维护，以及清晰的项目边界。
 
-- **FinTrack：** macOS 个人财务工作台，支持收支记录、资产、预算、目标和多币种管理。
-- **Currency Tracker：** 菜单栏汇率工具，包含走势图、快捷换算、提醒和多语言界面。
-- **CR-Hopper：** 将第三方公开代理来源整理为 Hiddify、Mihomo 等客户端可用的订阅。公开节点的安全性与可用性不作保证。
+- **[FinTrack](https://github.com/Agumuzi/FinTrack)：** 原生 Mac 个人财务应用，管理账目、资产、预算、目标和多币种数据。
+- **[Currency Tracker](https://github.com/Agumuzi/Currency-Tracker)：** 菜单栏汇率工具，支持趋势图、汇率提醒、快捷换算和多语言。
+- **[CR-Hopper](https://github.com/Agumuzi/crhopper)：** 将公开第三方代理节点整理为兼容 Hiddify、Mihomo 等客户端的订阅格式。
 
 </details>
+
+<sub>Each project has its own release cycle and limitations. CR-Hopper uses untrusted third-party public nodes; their availability and security are not guaranteed.</sub>
