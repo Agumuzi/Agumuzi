@@ -61,4 +61,8 @@ A project that filters and republishes third-party public proxy sources in subsc
 
 </details>
 
+## License & Brand Rights
+
+Original site/source code in this repository is provided under [PolyForm Noncommercial 1.0.0](LICENSE) for permitted noncommercial uses. **Agumuzi branding, original profile cover (`assets/profile-cover.svg`), logos, product icons, visual assets, and original profile/biographical text are not offered for reuse under the software license**; see [Brand & Visual Assets](ASSETS-LICENSE.md). Third-party marks remain the property of their respective owners. Commercial source-code use or reuse of the reserved visual identity requires separate permission.
+
 <sub>Each project has its own release cycle and limitations. CR-Hopper uses untrusted third-party public nodes; their availability and security are not guaranteed.</sub>
